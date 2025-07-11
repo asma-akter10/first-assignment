@@ -36,7 +36,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 30px 130px;
+    margin: 30px 150px;
 }
 /* banner style */
 .banner{
@@ -244,6 +244,12 @@ a{
     width: 40px;
     border-radius: 50%;
     object-fit: cover;
+}
+.rv-name{
+    color: rgba(0, 0, 0, .6);
+}
+.spann{
+    color: rgba(0, 0, 0, .4);
 }
 main{
     background-color:#f1f6ff;
